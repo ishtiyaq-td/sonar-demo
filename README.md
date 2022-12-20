@@ -80,6 +80,12 @@ Go to the project directory,
 cd sonar-demo
 ```
 
+## Create a project on SonarQube server
+
+Login to your sonarqube server and crate a project. 
+
+> SonarQube default username and password is `admin`
+
 ## Configure `sonar-project.properties` and connect maven to SonarQube
 
 ```ini
