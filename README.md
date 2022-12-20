@@ -6,7 +6,7 @@
 docker run -d -p 9000:9000 --name sonarqube sonarqube:latest
 ```
 
-## Install Java
+## Install [Java](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 
 Check if you have java installed in your system
 
