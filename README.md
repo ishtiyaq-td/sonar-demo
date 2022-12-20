@@ -26,7 +26,7 @@ If you have multiple java versions installed, you can used below command to slec
 sudo update-alternatives --config java
 ```
 
-## Install maven
+## Install [Maven](https://maven.apache.org/install.html)
 
 Visit https://maven.apache.org/download.cgi page to download the Maven or you can use below command to download it from the command line.
 
