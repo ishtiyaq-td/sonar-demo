@@ -3,7 +3,7 @@
 ## Start SonarQube server using [Docker](https://docs.docker.com/get-docker/)
 
 ```bash
-docker run -d -p 9000:9000 –name sonarqube sonarqube:latest
+docker run -d -p 9000:9000 --name sonarqube sonarqube:latest
 ```
 
 ## Install Java
